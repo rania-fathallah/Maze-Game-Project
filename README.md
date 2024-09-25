@@ -5,6 +5,7 @@
 Welcome to the **3D Raycasting Game** project! This project aims to create an engaging 3D game using raycasting techniques, inspired by classic first-person shooters. Players will navigate through a dynamically rendered environment, featuring walls, movement mechanics, collision detection, and a map parser.
 
 - **Author's LinkedIn**: [https://www.linkedin.com/in/rania-fathallah-56511b218/](#)
+- **Project Video**: [https://youtu.be/FcLwcL49bsM](#)
 
 ## Installation
 
@@ -79,8 +80,6 @@ You can navigate through the game using the following controls:
 
 ## Structure
 
-- `src/`: Contains source files.
-- `inc/`: Contains header files.
 - `Makefile`: Build script for compiling the project.
 
 ## Contributing
@@ -110,3 +109,5 @@ This project is licensed under the MIT License.
 ## Enjoy!
 
 Feel free to reach out if you have any questions or need assistance. Have fun building your 3D raycasting game!
+
+
